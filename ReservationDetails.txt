@@ -1,0 +1,7 @@
+HOTEL RESERVATION DETAILS
+
+Customer Name: sushma
+Room Type: Standard
+Payment Amount: Rs.1000
+Payment Status: Successful
+Reservation Status: Confirmed
