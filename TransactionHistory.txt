@@ -1,0 +1,8 @@
+STOCK TRADING PLATFORM
+
+User Name: Sushmitha
+Balance: 9100
+
+TRANSACTION HISTORY
+BUY 5 TCS Amount: 1500
+SELL 2 TCS Amount: 600
